@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name TestPoint_Local)(type KiCad)(uri ${KIPRJMOD}/modules/TestPoint_Local.pretty)(options "")(descr ""))
+  (lib (name Connector_Local)(type KiCad)(uri ${KIPRJMOD}/modules/Connector_Local.pretty)(options "")(descr ""))
+)
