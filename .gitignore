@@ -1,0 +1,13 @@
+*-cache.lib
+*-rescue.lib
+*.bak
+*.bck
+*.csv
+*.kicad_pcb-bak
+*.net
+*.sch-bak
+*.xml
+.*.swp
+.DS_Store
+.~*.ods#
+fp-info-cache
