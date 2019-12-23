@@ -5,13 +5,13 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "RIGOL DL3000 Binding Post Adapters"
-Date ""
+Date "2019-12-23"
 Rev ""
 Comp ""
-Comment1 ""
+Comment1 "https://github.com/sirhcel/dl3000-adapters"
 Comment2 ""
 Comment3 ""
-Comment4 ""
+Comment4 "Banana Jack and BNC Adapters for RIGOL DL3000 Series Electronic Loads"
 $EndDescr
 $Comp
 L Connector:Conn_01x01_Female J3

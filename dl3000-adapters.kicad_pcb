@@ -12,6 +12,10 @@
   (page A4)
   (title_block
     (title "RIGOL DL3000 Binding Post Adapters")
+    (date 2019-12-23)
+    (comment 1 https://github.com/sirhcel/dl3000-adapters)
+    (comment 2 "Create individual board files for generating Gerber data")
+    (comment 4 "Banana Jack and BNC Adapters for RIGOL DL3000 Series Electronic Loads")
   )
 
   (layers
