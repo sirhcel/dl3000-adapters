@@ -5,7 +5,7 @@
     (drawings 20)
     (tracks 0)
     (zones 0)
-    (modules 7)
+    (modules 9)
     (nets 5)
   )
 
@@ -128,6 +128,51 @@
     (diff_pair_gap 0.1524)
     (add_net /BANANA+)
     (add_net /BNC+)
+  )
+
+  (module Symbol_Local:Symbol_HighVoltage_Type2_SilkScreenTop_UltraSmall (layer F.Cu) (tedit 5E00EAC9) (tstamp 5E01411F)
+    (at 159 94.5)
+    (descr "Symbol, High Voltage, Type 2, Copper Top, Very Small,")
+    (tags "Symbol, High Voltage, Type 2, Copper Top, Very Small,")
+    (attr virtual)
+    (fp_text reference REF** (at -0.127 -5.715) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Symbol_HighVoltage_Type2_SilkScreenTop_UltraSmall (at -0.381 4.572) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start -0.2794 0.8382) (end 0.1016 0.5334) (layer F.SilkS) (width 0.381))
+    (fp_line (start -0.3048 0.4318) (end -0.2794 0.8382) (layer F.SilkS) (width 0.381))
+    (fp_line (start 0.1778 -0.1778) (end -0.2794 0.8382) (layer F.SilkS) (width 0.381))
+    (fp_line (start -0.4572 -0.0508) (end 0.1778 -0.1778) (layer F.SilkS) (width 0.381))
+    (fp_line (start 0.1016 -1.1684) (end -0.4572 -0.0508) (layer F.SilkS) (width 0.381))
+    (fp_line (start 0 -2.0955) (end 2.3495 1.397) (layer F.SilkS) (width 0.381))
+    (fp_line (start 2.3495 1.397) (end -2.3495 1.397) (layer F.SilkS) (width 0.381))
+    (fp_line (start -2.3495 1.397) (end 0 -2.0955) (layer F.SilkS) (width 0.381))
+  )
+
+  (module Symbol_Local:Symbol_HighVoltage_Type2_SilkScreenTop_VerySmall (layer F.Cu) (tedit 5E00E713) (tstamp 5E013C31)
+    (at 150 50.5)
+    (descr "Symbol, High Voltage, Type 2, Copper Top, Very Small,")
+    (tags "Symbol, High Voltage, Type 2, Copper Top, Very Small,")
+    (attr virtual)
+    (fp_text reference REF** (at -0.127 -5.715) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value Symbol_HighVoltage_Type2_SilkScreenTop_VerySmall (at -0.381 4.572) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_line (start -0.49784 2.19964) (end 0.70104 -0.89916) (layer F.SilkS) (width 0.381))
+    (fp_line (start 0.70104 -0.89916) (end 0.1016 -0.50038) (layer F.SilkS) (width 0.381))
+    (fp_line (start -0.89916 0.20066) (end 0.40132 -2.60096) (layer F.SilkS) (width 0.381))
+    (fp_line (start -0.49784 2.19964) (end 0.1016 1.50114) (layer F.SilkS) (width 0.381))
+    (fp_line (start -0.09906 -2.79908) (end -0.89916 0.20066) (layer F.SilkS) (width 0.381))
+    (fp_line (start -0.89916 0.20066) (end 0.29972 -0.59944) (layer F.SilkS) (width 0.381))
+    (fp_line (start 0.29972 -0.59944) (end -0.49784 2.19964) (layer F.SilkS) (width 0.381))
+    (fp_line (start -0.49784 2.19964) (end -0.59944 1.30048) (layer F.SilkS) (width 0.381))
+    (fp_line (start 0 -4.191) (end 4.699 2.794) (layer F.SilkS) (width 0.381))
+    (fp_line (start 4.699 2.794) (end -4.699 2.794) (layer F.SilkS) (width 0.381))
+    (fp_line (start -4.699 2.794) (end 0 -4.191) (layer F.SilkS) (width 0.381))
   )
 
   (module Symbol:OSHW-Logo_5.7x6mm_SilkScreen (layer B.Cu) (tedit 0) (tstamp 5E01385E)
@@ -842,7 +887,7 @@
     (fp_text reference J1 (at 0 -4.5 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value "Banana Jack" (at -2.75 8 180) (layer F.Fab)
+    (fp_text value "Banana Jack" (at -2.75 8 180) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 3.75 17.05) (end 3.75 18.05) (layer F.Fab) (width 0.1))
@@ -895,7 +940,7 @@
     (fp_text reference J2 (at -0.25 -6.25) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value BNC (at 0 6.5) (layer F.Fab)
+    (fp_text value BNC (at 0 6.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text user %R (at 0 0) (layer F.Fab)
@@ -935,7 +980,7 @@
     (fp_text reference J3 (at 0 -4.5 90) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value "Banana Jack" (at 2.75 7 180) (layer F.Fab)
+    (fp_text value "Banana Jack" (at 2.75 7 180) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 3.75 -0.95) (end 3.75 16.05) (layer F.Fab) (width 0.1))
@@ -986,7 +1031,7 @@
     (fp_text reference TP1 (at 0 -11.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value "Binding Posts" (at 0 8.5) (layer F.Fab)
+    (fp_text value "Binding Posts" (at 0 8.5) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start -19.5 -10) (end 19.5 -10) (layer F.CrtYd) (width 0.12))
@@ -1009,7 +1054,7 @@
     (fp_text reference TP2 (at 0 -11.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value "Binding Posts" (at 0 12.7) (layer F.Fab)
+    (fp_text value "Binding Posts" (at 0 12.7) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_poly (pts (xy -7 0.5) (xy -10 0.5) (xy -10 -0.5) (xy -7 -0.5)) (layer F.SilkS) (width 0.1))
