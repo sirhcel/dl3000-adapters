@@ -19,7 +19,7 @@ U 1 1 5DFC0E24
 P 6700 2500
 F 0 "J3" H 6700 2600 50  0000 C CNN
 F 1 "Banana Jack" H 6700 2400 50  0000 C CNN
-F 2 "Connector_Local:Hirschmann_SKS_PB4" H 6700 2500 50  0001 C CNN
+F 2 "Connector_Local:Multi_Banana" H 6700 2500 50  0001 C CNN
 F 3 "~" H 6700 2500 50  0001 C CNN
 	1    6700 2500
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 5DFC06B0
 P 4300 2500
 F 0 "J1" H 4300 2400 50  0000 C CNN
 F 1 "Banana Jack" H 4300 2600 50  0000 C CNN
-F 2 "Connector_Local:Hirschmann_SKS_PB4" H 4300 2500 50  0001 C CNN
+F 2 "Connector_Local:Multi_Banana" H 4300 2500 50  0001 C CNN
 F 3 "~" H 4300 2500 50  0001 C CNN
 	1    4300 2500
 	-1   0    0    1   

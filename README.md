@@ -24,10 +24,26 @@ current applications.
     * KiCad design files from this repository
     * [Gerber an drill files](orders/dl3000-banana-adapter-1.0-85dbc15.zip)
     * [Or just order it from OSH Park](https://oshpark.com/shared\_projects/gLsNtQ88)
-* 1 connector Hirschmann Test and Measurement
-  [PB4 red](https://www.reichelt.de/leiterplattenbuchse-4-mm-rot-pb-4-rt-p76865.html)
-* 1 connector Hirschmann Test and Measurement
-  [PB4 black](https://www.reichelt.de/leiterplattenbuchse-4-mm-schwarz-pb-4-sw-p13998.html)
+
+* Banana Jacks
+
+  * Hirschmann Test and Measurement
+  
+    [PB4 red](https://www.reichelt.de/leiterplattenbuchse-4-mm-rot-pb-4-rt-p76865.html)
+    
+    [PB4 black](https://www.reichelt.de/leiterplattenbuchse-4-mm-schwarz-pb-4-sw-p13998.html)
+
+  * Harwin
+
+    [M3498 Red](https://www.digikey.ca/en/products/detail/harwin-inc/M3498-99/4953082)
+
+    [M3498 Black](https://www.digikey.ca/en/products/detail/harwin-inc/M3498-98/4953081)
+
+  * Cinch Connectivity Solutions Johnson
+
+    [Red](https://www.digikey.ca/en/products/detail/cinch-connectivity-solutions-johnson/105-0752-001/5887)
+    
+    [Black](https://www.digikey.ca/en/products/detail/cinch-connectivity-solutions-johnson/105-0753-001/5888)
 
 
 ### BNC Adapter
