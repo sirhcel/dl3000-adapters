@@ -22,8 +22,8 @@ current applications.
 
 * 1 PCB
     * KiCad design files from this repository
-    * [Gerber an drill files](dl3000-banana-adapter-1.1-836d2cf.zip)
-    * [Or just order it from OSH Park](https://oshpark.com/shared\_projects/mZ4DxMM )
+    * [Gerber an drill files](orders/dl3000-banana-adapter-1.1-836d2cf.zip)
+    * [Or just order it from OSH Park](https://oshpark.com/shared_projects/mZ4DxMMh)
 
 * Banana Jacks (you may fit either of the variants below)
     * Hirschmann Test and Measurement
