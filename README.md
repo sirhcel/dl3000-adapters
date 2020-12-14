@@ -22,34 +22,27 @@ current applications.
 
 * 1 PCB
     * KiCad design files from this repository
-    * [Gerber an drill files](orders/dl3000-banana-adapter-1.0-85dbc15.zip)
-    * [Or just order it from OSH Park](https://oshpark.com/shared\_projects/gLsNtQ88)
+    * [Gerber an drill files](dl3000-banana-adapter-1.1-836d2cf.zip)
+    * [Or just order it from OSH Park](https://oshpark.com/shared\_projects/mZ4DxMM )
 
-* Banana Jacks
-
-  * Hirschmann Test and Measurement
-  
-    [PB4 red](https://www.reichelt.de/leiterplattenbuchse-4-mm-rot-pb-4-rt-p76865.html)
-    
-    [PB4 black](https://www.reichelt.de/leiterplattenbuchse-4-mm-schwarz-pb-4-sw-p13998.html)
-
-  * Harwin
-
-    [M3498 Red](https://www.digikey.ca/en/products/detail/harwin-inc/M3498-99/4953082)
-
-    [M3498 Black](https://www.digikey.ca/en/products/detail/harwin-inc/M3498-98/4953081)
-
-  * Cinch Connectivity Solutions Johnson
-
-    [Red](https://www.digikey.ca/en/products/detail/cinch-connectivity-solutions-johnson/105-0752-001/5887)
-    
-    [Black](https://www.digikey.ca/en/products/detail/cinch-connectivity-solutions-johnson/105-0753-001/5888)
+* Banana Jacks (you may fit either of the variants below)
+    * Hirschmann Test and Measurement
+        * [PB4 red](https://www.reichelt.de/leiterplattenbuchse-4-mm-rot-pb-4-rt-p76865.html)
+        * [PB4 black](https://www.reichelt.de/leiterplattenbuchse-4-mm-schwarz-pb-4-sw-p13998.html)
+    * Harwin
+        * [M3498 Red](https://www.digikey.ca/en/products/detail/harwin-inc/M3498-99/4953082)
+        * [M3498 Black](https://www.digikey.ca/en/products/detail/harwin-inc/M3498-98/4953081)
+    * Cinch Connectivity Solutions Johnson
+        * [Red](https://www.digikey.ca/en/products/detail/cinch-connectivity-solutions-johnson/105-0752-001/5887)
+        * [Black](https://www.digikey.ca/en/products/detail/cinch-connectivity-solutions-johnson/105-0753-001/5888)
 
 
 ### BNC Adapter
 
 * 1 PCB
     * KiCad design files form this repository
+    * As release 1.1 only updates the version number for this PCB, Gerber files
+      and the OSH Park project are still up to date.
     * [Gerber and drill files](orders/dl3000-bnc-adapter-1.0-85dbc15.zip)
     * [Or just order it from OSH Park](https://oshpark.com/shared\_projects/MOcX6Gow)
 * 1 [BNC connector](https://www.reichelt.de/steckverbinder-bnc-75-ohm-gerade-rnd-205-00437-p194660.html)
