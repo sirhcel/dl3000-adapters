@@ -112,4 +112,32 @@ Wire Wire Line
 	6000 4500 6000 5000
 Wire Wire Line
 	6000 5000 5700 5000
+$Comp
+L Connector:Conn_01x01_Female J5
+U 1 1 5FF5E37A
+P 6700 2800
+F 0 "J5" H 6700 2900 50  0000 C CNN
+F 1 "Banana Jack" H 6700 2700 50  0000 C CNN
+F 2 "Connector_Local:Pomona_73099" H 6700 2800 50  0001 C CNN
+F 3 "~" H 6700 2800 50  0001 C CNN
+	1    6700 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6500 2500 6500 2800
+Connection ~ 6500 2500
+$Comp
+L Connector:Conn_01x01_Female J4
+U 1 1 5FF5E842
+P 4300 2750
+F 0 "J4" H 4300 2650 50  0000 C CNN
+F 1 "Banana Jack" H 4300 2850 50  0000 C CNN
+F 2 "Connector_Local:Pomona_73099" H 4300 2750 50  0001 C CNN
+F 3 "~" H 4300 2750 50  0001 C CNN
+	1    4300 2750
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4500 2500 4500 2750
+Connection ~ 4500 2500
 $EndSCHEMATC
