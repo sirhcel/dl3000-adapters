@@ -619,7 +619,7 @@
   (module Connector_Local:Pomona_73099 (layer F.Cu) (tedit 5FF9AB1B) (tstamp 5FF5E912)
     (at 156.75 102)
     (path /5FF5E37A)
-    (fp_text reference J5 (at 1 -4) (layer F.SilkS)
+    (fp_text reference J5 (at 1 -4) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value "Banana Jack" (at 1 3) (layer F.Fab)
@@ -653,7 +653,7 @@
   (module Connector_Local:Pomona_73099 (layer F.Cu) (tedit 5FF9AB1B) (tstamp 5FF5E5BD)
     (at 143.25 102 180)
     (path /5FF5E842)
-    (fp_text reference J4 (at 1 -4) (layer F.SilkS)
+    (fp_text reference J4 (at 1 -4) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value "Banana Jack" (at 1 3) (layer F.Fab)
@@ -1522,7 +1522,7 @@
   (module TestPoint_Local:TestPoint_2Pads_D15.0mm_Drill7.0mm_RIGOL_DL3000_Binding_Posts (layer F.Cu) (tedit 5DFC00FF) (tstamp 5FFA1469)
     (at 150 84)
     (path /5FFA3E52)
-    (fp_text reference TP3 (at 0 -11.43) (layer F.SilkS)
+    (fp_text reference TP3 (at 0 -11.43) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value "Binding Posts" (at 0 12.7) (layer F.Fab)
